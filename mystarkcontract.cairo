@@ -5,7 +5,7 @@ mod HelloMyStarknet {
 
 
     #[event]
-    fn HelloToYouFriend(from: ContractAddress, value: felt252) {}
+    fn HelloToYouBrotherSisterFriend(from: ContractAddress, value: felt252) {}
 
 
     #[external]
